@@ -1,2 +1,12 @@
 {
+	"name": "John P. Bloch's composer repo",
+	"homepage": "http://composer.johnpbloch.com",
+	"repositories": [
+	],
+	"require-all": true,
+	"archive": {
+		"directory": "dist",
+		"format": "zip",
+		"skip-dev": true
+	}
 }
