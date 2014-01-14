@@ -1,14 +1,14 @@
 {
     "packages": {
         "wordpress/i18n-tools": {
-            "dev-master": {
+            "dev-trunk": {
                 "name": "wordpress/i18n-tools",
-                "version": "dev-master",
+                "version": "dev-trunk",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "svn",
-                    "url": "http://develop.svn.wordpress.org/trunk/tools/i18n/",
-                    "reference": ""
+                    "url": "http://develop.svn.wordpress.org/",
+                    "reference": "trunk/tools/i18n/"
                 },
                 "bin": [
                     "makepot.php"
