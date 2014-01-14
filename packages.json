@@ -8,10 +8,10 @@
                 "source": {
                     "type": "svn",
                     "url": "http://develop.svn.wordpress.org/",
-                    "reference": "trunk/tools/i18n/"
+                    "reference": "trunk/"
                 },
                 "bin": [
-                    "makepot.php"
+                    "tools/i18n/makepot.php"
                 ],
                 "type": "library"
             }
