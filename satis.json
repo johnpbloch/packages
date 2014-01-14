@@ -6,11 +6,11 @@
 			"type": "package",
 			"package": {
 				"name": "wordpress/i18n-tools",
-				"version": "dev-master",
+				"version": "dev-trunk",
 				"source": {
-					"url": "http://develop.svn.wordpress.org/trunk/tools/i18n/",
+					"url": "http://develop.svn.wordpress.org/",
 					"type": "svn",
-					"reference": ""
+					"reference": "trunk/tools/i18n/"
 				},
 				"bin": ["makepot.php"]
 			}
