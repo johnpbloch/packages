@@ -17,7 +17,7 @@
 		},
 		{
 			"type": "vcs",
-			"url": "https://github.com/johnpbloch/packages.git"
+			"url": "https://github.com/johnpbloch/wp-wrapper.git"
 		}
 	],
 	"require-all": true,
