@@ -8,22 +8,21 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/johnpbloch/wp-wrapper.git",
-                    "reference": "d8bb47ddc4e971946aa7b874ebc8613364862553"
+                    "reference": "e75658a67e07f1da50ef9db7a27477a4c63c1ca7"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/johnpbloch/wp-wrapper/zipball/d8bb47ddc4e971946aa7b874ebc8613364862553",
-                    "reference": "d8bb47ddc4e971946aa7b874ebc8613364862553",
+                    "url": "https://api.github.com/repos/johnpbloch/wp-wrapper/zipball/e75658a67e07f1da50ef9db7a27477a4c63c1ca7",
+                    "reference": "e75658a67e07f1da50ef9db7a27477a4c63c1ca7",
                     "shasum": ""
                 },
                 "require": {
                     "php": ">=5.4.0"
                 },
-                "time": "2014-06-22 01:17:01",
+                "time": "2014-06-22 01:43:46",
                 "type": "library",
                 "autoload": {
                     "files": [
-                        "JohnPBloch/wp-wrapper.php",
                         "load.php"
                     ]
                 },
