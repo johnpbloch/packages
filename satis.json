@@ -14,10 +14,6 @@
 				},
 				"bin": ["tools/i18n/makepot.php"]
 			}
-		},
-		{
-			"type": "vcs",
-			"url": "https://github.com/johnpbloch/packages.git"
 		}
 	],
 	"require-all": true,
