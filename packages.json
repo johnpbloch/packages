@@ -1,48 +1,5 @@
 {
     "packages": {
-        "johnpbloch/wp-wrapper": {
-            "dev-master": {
-                "name": "johnpbloch/wp-wrapper",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/johnpbloch/wp-wrapper.git",
-                    "reference": "18b9a4ca1745b2a3766629f3f0f32c20984e7203"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/johnpbloch/wp-wrapper/zipball/18b9a4ca1745b2a3766629f3f0f32c20984e7203",
-                    "reference": "18b9a4ca1745b2a3766629f3f0f32c20984e7203",
-                    "shasum": ""
-                },
-                "require": {
-                    "php": ">=5.4.0"
-                },
-                "time": "2014-06-21 23:19:50",
-                "type": "library",
-                "autoload": {
-                    "files": [
-                        "load.php",
-                        "JohnPBloch/wp-wrapper.php"
-                    ]
-                },
-                "license": [
-                    "MIT"
-                ],
-                "authors": [
-                    {
-                        "name": "John P Bloch",
-                        "email": "me@johnpbloch.com"
-                    }
-                ],
-                "description": "A veryvery sneaky wrapper around WordPress",
-                "support": {
-                    "source": "https://github.com/johnpbloch/wp-wrapper/tree/master",
-                    "issues": "https://github.com/johnpbloch/wp-wrapper/issues"
-                }
-            }
-        },
         "wordpress/i18n-tools": {
             "dev-trunk": {
                 "name": "wordpress/i18n-tools",
