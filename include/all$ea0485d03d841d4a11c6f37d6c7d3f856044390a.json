@@ -1,0 +1,43 @@
+{
+    "packages": {
+        "johnpbloch/shareadraft": {
+            "dev-master": {
+                "name": "johnpbloch/shareadraft",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/johnpbloch/shareadraft.git",
+                    "reference": "37b0acd63abcb1be8ceb8021227bb0c9effaa957"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/johnpbloch/shareadraft/zipball/37b0acd63abcb1be8ceb8021227bb0c9effaa957",
+                    "reference": "37b0acd63abcb1be8ceb8021227bb0c9effaa957",
+                    "shasum": ""
+                },
+                "time": "2014-12-31 21:34:57",
+                "type": "wordpress-plugin",
+                "support": {
+                    "source": "https://github.com/johnpbloch/shareadraft/tree/master"
+                }
+            }
+        },
+        "wordpress/i18n-tools": {
+            "dev-trunk": {
+                "name": "wordpress/i18n-tools",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "svn",
+                    "url": "http://develop.svn.wordpress.org/",
+                    "reference": "trunk/"
+                },
+                "bin": [
+                    "tools/i18n/makepot.php"
+                ],
+                "type": "library"
+            }
+        }
+    }
+}
