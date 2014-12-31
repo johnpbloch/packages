@@ -1,20 +1,8 @@
 {
-    "packages": {
-        "wordpress/i18n-tools": {
-            "dev-trunk": {
-                "name": "wordpress/i18n-tools",
-                "version": "dev-trunk",
-                "version_normalized": "9999999-dev",
-                "source": {
-                    "type": "svn",
-                    "url": "http://develop.svn.wordpress.org/",
-                    "reference": "trunk/"
-                },
-                "bin": [
-                    "tools/i18n/makepot.php"
-                ],
-                "type": "library"
-            }
+    "packages": [],
+    "includes": {
+        "include/all$0c77711d3899ada179b3d65332e39545db9e36a6.json": {
+            "sha1": "0c77711d3899ada179b3d65332e39545db9e36a6"
         }
     }
 }
