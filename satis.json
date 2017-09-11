@@ -1,6 +1,6 @@
 {
 	"name": "John P. Bloch's composer repo",
-	"homepage": "https://composer.johnpbloch.com",
+	"homepage": "http://composer.johnpbloch.com",
 	"repositories": [
 		{
 			"type": "package",
@@ -8,11 +8,11 @@
 				"name": "wordpress/i18n-tools",
 				"version": "dev-trunk",
 				"source": {
-					"url": "https://develop.svn.wordpress.org/",
+					"url": "http://develop.svn.wordpress.org/",
 					"type": "svn",
-					"reference": "trunk/tools/"
+					"reference": "trunk/"
 				},
-				"bin": ["i18n/makepot.php"]
+				"bin": ["tools/i18n/makepot.php"]
 			}
 		},
 		{
